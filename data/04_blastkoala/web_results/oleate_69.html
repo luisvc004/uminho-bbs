@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<!--
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>BlastKOALA - Result</title>
+<link rel="stylesheet" href="/css/kegg2.css" type="text/css" />
+<link rel="stylesheet" href="/css/piechart.css" type="text/css" />
+<script type="text/javascript" src="/js/piechart.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/d3.v3.min.js" charset="utf-8"></script>
+<script language="JavaScript" src="/js/jquery-3.5.1.min.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function view_graph(data,chart) {
+  var arr_data = parse_data(data);
+  piechart.draw(chart, arr_data[0],arr_data[1], onclick);
+}
+
+function parse_data(elem) {
+  var tmp1 = document.forms[0].elements[elem].value.split(/\|/);
+
+	if( tmp1 == '')
+	{
+		return;
+	}
+
+  var i=0;
+  var data = new Array();
+  var data2 = new Array();
+  tmp1.forEach(function(s){
+    var tmp2 = s.split(/,/);
+    var d = {
+      "label" : tmp2[0],
+      "value" : tmp2[1],
+      "color" : tmp2[2]
+    };
+    data.push(d);
+    if(i<11)
+    {
+    data2.push(d);
+    }
+    i++;
+  });
+
+  return [data,data2];
+}
+
+
+$(document).ready(function(){
+view_graph('chart_data2','piechart2');view_graph('chart_data3','piechart3');
+
+	
+	$('#piechart3').hide();
+
+	$(document).on("click","#piechart_pathway",function(){ 
+	  $('#piechart2').hide();
+	  $('#piechart3').show();
+		$('#graph_link_text').html('<a href="#graph_link" id="piechart_all">All</a>');
+  });
+	$(document).on("click","#piechart_all",function(){ 
+	  $('#piechart3').hide();
+	  $('#piechart2').show();
+		$('#graph_link_text').html('<a href="#graph_link" id="piechart_pathway">Pathway only</a>');
+  });
+});
+
+//-->
+</script>
+</head>
+
+<body>
+<table width="800">
+<tr>
+  <td width="140" align="center">
+    <a href="/blastkoala/"><img src="/Fig/koala_logo.gif" alt="KOALA logo" border="0" /></a>
+  </td>
+  <td>
+    <h2 class="title10">BlastKOALA</h2>
+    <h3 class="title10">Result</h3>
+  </td>
+</tr>
+</table>
+
+<br />
+<form>
+<table width="1000" cellpadding="2" class="frame1"><tr><td>
+<div id="main">
+<br />
+<div style="float:left">
+<b>Your BlastKOALA job</b>
+<div class="indent">
+Query dataset: 10 entries<br />
+KEGG database searched: refprok.pep<br />
+Job submitted: Fri Oct 16 20:04:49 JST 2026<br />
+Job completed: Fri Oct 16 20:05:29 JST 2026
+</div>
+</div>
+<div style="float:right"><input type="button" value="Help" onclick="javascript:void(window.open('/blastkoala/help_blastkoala_result.html','BlastKOALA_Help','toolbar=no,location=no,directories=no,width=720,height=640,resizable=yes,scrollbars=yes'))" />
+</div>
+<div style="clear:both;"></div>
+<br />
+<table cellpadding="2" border="0">
+<tr><td valign="top"><b>Annotation data</b></td><td><a href='https://www.kegg.jp/tool-bin/blastkoala_result_list?id=7d78eb2e7a9ea3534a52c2170f0931656a374dfe&amp;passwd=REMOVED&amp;type=blastkoala' target='_list'>View</a> | <a href='https://www.kegg.jp/kegg-bin/download?file=/tmp/7d78eb2e7a9ea3534a52c2170f0931656a374dfe/user_ko.txt'>Download</a></td></tr>
+<tr valign="top"><td><div class="indent">Summary</div></td><td>
+7 entries (70.0%) annotated
+</td></tr>
+<tr valign="top"><td><div class="indent">Functional<br />category</div></td>
+<td>View <div style="display: inline-block" id="graph_link_text"><a href="#graph_link" id="piechart_pathway">Pathway only</a></div><br/><br/>
+<div id="piechart2" class="piechart"></div>
+<input type="hidden" name="chart_data2" value="Energy metabolism,2,#9933cc|Genetic information processing,1,#ffcccc|Protein families: signaling and cellular processes,1,#99cc66|Lipid metabolism,1,#009999|Unclassified: signaling and cellular processes,1,#99cc66|Unclassified: metabolism,1,#ccffff">
+<div id="piechart3" class="piechart"></div>
+<input type="hidden" name="chart_data3" value="Energy metabolism,2,#9933cc|Lipid metabolism,1,#009999|Genetic information processing,1,#ffffff|Protein families: signaling and cellular processes,1,#ffffff|Unclassified: metabolism,1,#ffffff|Unclassified: signaling and cellular processes,1,#ffffff">
+<div align=right><a href='https://www.kegg.jp/kegg/kegg1c.html#functional' target='_blank'>See color codes</a></div>
+</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td valign="top"><b>KEGG Mapper</b></td><td>
+<a href='https://www.kegg.jp/kegg-bin/find_pathway_object?query_pathwayfile=7d78eb2e7a9ea3534a52c2170f0931656a374dfe/user_ko.txt' target='_pathway'>Reconstruct Pathway</a><br /><br />
+</td></tr>
+ <!-- IF ghostkoala -->
+
+</table>
+<input type="hidden" name="id" value="7d78eb2e7a9ea3534a52c2170f0931656a374dfe" />
+<input type="hidden" name="passwd" value="REMOVED" />
+<input type="hidden" name="code" value="user" />
+<input type="hidden" name="type" value="blastkoala" />
+<input type="hidden" name="taxonomy_mode" value="" />
+<br />
+</td></tr></table>
+</form>
+
+<div style="margin-left:10px; margin-top:10px;">
+[ <a href="https://www.kegg.jp/blastkoala/">BlastKOALA</a> | <a href="https://www.kegg.jp/">KEGG</a> | <a href="https://www.kanehisa.jp/">Kanehisa Labs</a> ]
+</div>
+</body>
+</html>
