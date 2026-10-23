@@ -22,4 +22,12 @@ python3 scripts/04_ko_to_table.py
 | `04_ko_to_table.py` | `04_blastkoala`, user_ko files | `04_blastkoala`, protein to K number tables |
  
 In the BlastKOALA file names, 120 is taxon 1204725 (*M. formicicum*) and 69 is taxon 690567 (*S. zehnderi*).
- 
+
+## Authors
+
+Group 2
+
+- Joana Junqueira
+- [Luís Carmo](https://github.com/luisvc004/)
+- [Miguel Cruz](https://github.com/migcruzz/)
+- Matilde Monteiro
