@@ -23,7 +23,7 @@ python3 scripts/05_highlighted_barplot.py
 | `03_split_ids_by_organism.py` | `data/03_uniprot`, ID Mapping tables | `results/03_uniprot`, IDs and annotation by organism |
 | `04_ko_to_table.py` | `data/04_blastkoala`, user_ko files | `results/04_blastkoala`, protein to K number tables |
 | `05_enzyme_barplot.py` | `results/02_abundance`, comparison table | `results/05_figures`, bar chart of selected enzymes |
-| `05_highlighted_barplot.py` | `data/05_excel`, Excel files with the highlighted proteins | `results/05_figures`, bar chart of the highlighted proteins |
+| `05_highlighted_barplot.py` | `data/plots`, Excel files with the highlighted proteins | `results/05_figures`, bar chart of the highlighted proteins |
 
 Tested with Python 3.9, pandas 2.3.3, matplotlib 3.9.4, seaborn 0.13.2 and openpyxl 3.1.5.
 
