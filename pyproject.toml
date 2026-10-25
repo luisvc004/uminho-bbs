@@ -1,0 +1,14 @@
+[project]
+name = "uminho-bbs"
+version = "0.1.0"
+description = "BBS WA1"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+    "seaborn>=0.12",
+    "openpyxl>=3.1",
+]
+
+[tool.setuptools]
+py-modules = []

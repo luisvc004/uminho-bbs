@@ -9,7 +9,7 @@ Identification (Galaxy), annotation (UniProt ID Mapping) and K numbers (BlastKOA
 From the root of the repository:
 
 ```
-pip install -r requirements.txt
+pip install .
 python3 scripts/02_protein_abundance.py
 python3 scripts/03_split_ids_by_organism.py
 python3 scripts/04_ko_to_table.py
@@ -25,7 +25,7 @@ python3 scripts/05_highlighted_barplot.py
 | `05_enzyme_barplot.py` | `results/02_abundance`, comparison table | `results/05_figures`, bar chart of selected enzymes |
 | `05_highlighted_barplot.py` | `data/plots`, Excel files with the highlighted proteins | `results/05_figures`, bar chart of the highlighted proteins |
 
-Tested with Python 3.9, pandas 2.3.3, matplotlib 3.9.4, seaborn 0.13.2 and openpyxl 3.1.5.
+Tested with Python 3.12.13, pandas 3.1.0, matplotlib 3.11.2, seaborn 0.13.2 and openpyxl 3.1.5.
 
 In the BlastKOALA file names, 120 is taxon 1204725 (*M. formicicum*) and 69 is taxon 690567 (*S. zehnderi*).
 

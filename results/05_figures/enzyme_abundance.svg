@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="584.789pt" height="230.427492pt" viewBox="0 0 584.789 230.427492" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="585.27875pt" height="230.399122pt" viewBox="0 0 585.27875 230.399122" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-25T13:39:49.418376</dc:date>
+    <dc:date>2026-10-25T15:23:05.224634</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -21,404 +21,404 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 230.427492 
-L 584.789 230.427492 
-L 584.789 0 
+   <path d="M 0 230.399122 
+L 585.27875 230.399122 
+L 585.27875 0 
 L 0 0 
 z
 " style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 39.989 170.803613 
-L 577.589 170.803613 
-L 577.589 28.766653 
-L 39.989 28.766653 
+    <path d="M 40.29875 170.659662 
+L 578.07875 170.659662 
+L 578.07875 28.744694 
+L 40.29875 28.744694 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="text_1">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="74.58702" y="185.790238" transform="rotate(-0 74.58702 185.790238)">mcrA</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="74.908354" y="185.6456" transform="rotate(-0 74.908354 185.6456)">mcrA</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="text_2">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="127.814743" y="185.790238" transform="rotate(-0 127.814743 185.790238)">mcrB</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="128.153899" y="185.6456" transform="rotate(-0 128.153899 185.6456)">mcrB</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="text_3">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="181.042465" y="185.790238" transform="rotate(-0 181.042465 185.790238)">mer</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="181.399443" y="185.6456" transform="rotate(-0 181.399443 185.6456)">mer</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="text_4">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="234.270188" y="185.790238" transform="rotate(-0 234.270188 185.790238)">cdhA</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="234.644988" y="185.646287" transform="rotate(-0 234.644988 185.646287)">cdhA</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="text_5">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="287.497911" y="185.790238" transform="rotate(-0 287.497911 185.790238)">mvhD</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="287.890532" y="185.646287" transform="rotate(-0 287.890532 185.646287)">mvhD</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="text_6">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="383.307812" y="185.790238" transform="rotate(-0 383.307812 185.790238)">etfB</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="383.732512" y="185.646287" transform="rotate(-0 383.732512 185.646287)">etfB</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="text_7">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="436.535535" y="185.790238" transform="rotate(-0 436.535535 185.790238)">fadA</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="436.978057" y="185.646287" transform="rotate(-0 436.978057 185.646287)">fadA</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="text_8">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="489.763257" y="185.790238" transform="rotate(-0 489.763257 185.790238)">atpA</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="490.223601" y="185.6456" transform="rotate(-0 490.223601 185.6456)">atpA</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="text_9">
-      <text style="fill: #262626; font: italic 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="542.99098" y="185.790238" transform="rotate(-0 542.99098 185.790238)">atpD</text>
+      <text style="font-style: italic; font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="543.469146" y="185.6456" transform="rotate(-0 543.469146 185.6456)">atpD</text>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_1">
-      <path d="M 39.989 170.803613 
-L 577.589 170.803613 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 170.659662 
+L 578.07875 170.659662 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_10">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="174.146925" transform="rotate(-0 31.689 174.146925)">0</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="174.002631" transform="rotate(-0 31.99875 174.002631)">0</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_2">
-      <path d="M 39.989 147.7579 
-L 577.589 147.7579 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 147.633743 
+L 578.07875 147.633743 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_11">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="151.101212" transform="rotate(-0 31.689 151.101212)">5</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="150.976711" transform="rotate(-0 31.99875 150.976711)">5</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_3">
-      <path d="M 39.989 124.712187 
-L 577.589 124.712187 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 124.607823 
+L 578.07875 124.607823 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_12">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="128.0555" transform="rotate(-0 31.689 128.0555)">10</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="127.950792" transform="rotate(-0 31.99875 127.950792)">10</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_4">
-      <path d="M 39.989 101.666474 
-L 577.589 101.666474 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 101.581904 
+L 578.07875 101.581904 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_13">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="105.009787" transform="rotate(-0 31.689 105.009787)">15</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="104.924872" transform="rotate(-0 31.99875 104.924872)">15</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_5">
-      <path d="M 39.989 78.620761 
-L 577.589 78.620761 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 78.555984 
+L 578.07875 78.555984 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_14">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="81.964074" transform="rotate(-0 31.689 81.964074)">20</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="81.898953" transform="rotate(-0 31.99875 81.898953)">20</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_6">
-      <path d="M 39.989 55.575048 
-L 577.589 55.575048 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 55.530065 
+L 578.07875 55.530065 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_15">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="58.918361" transform="rotate(-0 31.689 58.918361)">25</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="58.873033" transform="rotate(-0 31.99875 58.873033)">25</text>
      </g>
     </g>
     <g id="ytick_7">
      <g id="line2d_7">
-      <path d="M 39.989 32.529336 
-L 577.589 32.529336 
-" clip-path="url(#pd038f33926)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
+      <path d="M 40.29875 32.504145 
+L 578.07875 32.504145 
+" clip-path="url(#p1e2951c750)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.6; stroke-width: 0.5"/>
      </g>
      <g id="text_16">
-      <text style="fill: #262626; font: 8.8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end" x="31.689" y="35.872648" transform="rotate(-0 31.689 35.872648)">30</text>
+      <text style="font-size: 8.8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: end; fill: #262626" x="31.99875" y="35.847114" transform="rotate(-0 31.99875 35.847114)">30</text>
      </g>
     </g>
     <g id="text_17">
-     <text style="fill: #262626; font: 9.6px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="14.4945" y="99.785133" transform="rotate(-90 14.4945 99.785133)">Relative abundance (%)</text>
+     <text style="font-size: 9.6px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="14.4945" y="99.702178" transform="rotate(-90 14.4945 99.702178)">Relative abundance (%)</text>
     </g>
    </g>
    <g id="patch_3">
-    <path d="M 53.295931 170.803613 
-L 74.58702 170.803613 
-L 74.58702 132.933976 
-L 53.295931 132.933976 
+    <path d="M 53.610136 170.659662 
+L 74.908354 170.659662 
+L 74.908354 132.82255 
+L 53.610136 132.82255 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 74.58702 170.803613 
-L 95.878109 170.803613 
-L 95.878109 43.984899 
-L 74.58702 43.984899 
+    <path d="M 74.908354 170.659662 
+L 96.206572 170.659662 
+L 96.206572 43.949869 
+L 74.908354 43.949869 
 z
-" clip-path="url(#pd038f33926)" style="fill: #e45756; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #e45756; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 106.523653 170.803613 
-L 127.814743 170.803613 
-L 127.814743 146.341049 
-L 106.523653 146.341049 
+    <path d="M 106.855681 170.659662 
+L 128.153899 170.659662 
+L 128.153899 146.218109 
+L 106.855681 146.218109 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 127.814743 170.803613 
-L 149.105832 170.803613 
-L 149.105832 132.993434 
-L 127.814743 132.993434 
+    <path d="M 128.153899 170.659662 
+L 149.452116 170.659662 
+L 149.452116 132.881957 
+L 128.153899 132.881957 
 z
-" clip-path="url(#pd038f33926)" style="fill: url(#h69f1401734); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: url(#h5b832aeef6); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
-    <path d="M 159.751376 170.803613 
-L 181.042465 170.803613 
-L 181.042465 118.599542 
-L 159.751376 118.599542 
+    <path d="M 160.101225 170.659662 
+L 181.399443 170.659662 
+L 181.399443 118.500428 
+L 160.101225 118.500428 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
-    <path d="M 181.042465 170.803613 
-L 202.333554 170.803613 
-L 202.333554 122.241687 
-L 181.042465 122.241687 
+    <path d="M 181.399443 170.659662 
+L 202.697661 170.659662 
+L 202.697661 122.139445 
+L 181.399443 122.139445 
 z
-" clip-path="url(#pd038f33926)" style="fill: url(#h69f1401734); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: url(#h5b832aeef6); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_9">
-    <path d="M 212.979099 170.803613 
-L 234.270188 170.803613 
-L 234.270188 160.887964 
-L 212.979099 160.887964 
+    <path d="M 213.34677 170.659662 
+L 234.644988 170.659662 
+L 234.644988 160.75253 
+L 213.34677 160.75253 
 z
-" clip-path="url(#pd038f33926)" style="fill: url(#h88fd84b3b5); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: url(#hbe886c99c1); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_10">
-    <path d="M 234.270188 170.803613 
-L 255.561277 170.803613 
-L 255.561277 61.699677 
-L 234.270188 61.699677 
+    <path d="M 234.644988 170.659662 
+L 255.943205 170.659662 
+L 255.943205 61.649433 
+L 234.644988 61.649433 
 z
-" clip-path="url(#pd038f33926)" style="fill: url(#h69f1401734); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: url(#h5b832aeef6); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_11">
-    <path d="M 266.206822 170.803613 
-L 287.497911 170.803613 
-L 287.497911 155.881053 
-L 266.206822 155.881053 
+    <path d="M 266.592314 170.659662 
+L 287.890532 170.659662 
+L 287.890532 155.749919 
+L 266.592314 155.749919 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_12">
-    <path d="M 287.497911 170.803613 
-L 308.789 170.803613 
-L 308.789 170.803613 
-L 287.497911 170.803613 
+    <path d="M 287.890532 170.659662 
+L 309.18875 170.659662 
+L 309.18875 170.659662 
+L 287.890532 170.659662 
 z
-" clip-path="url(#pd038f33926)" style="fill: url(#h69f1401734); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: url(#h5b832aeef6); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_13">
-    <path d="M 362.016723 170.803613 
-L 383.307812 170.803613 
-L 383.307812 156.396355 
-L 362.016723 156.396355 
+    <path d="M 362.434295 170.659662 
+L 383.732512 170.659662 
+L 383.732512 156.264778 
+L 362.434295 156.264778 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_14">
-    <path d="M 415.244446 170.803613 
-L 436.535535 170.803613 
-L 436.535535 163.552971 
-L 415.244446 163.552971 
+    <path d="M 415.679839 170.659662 
+L 436.978057 170.659662 
+L 436.978057 163.415247 
+L 415.679839 163.415247 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_15">
-    <path d="M 468.472168 170.803613 
-L 489.763257 170.803613 
-L 489.763257 162.523749 
-L 468.472168 162.523749 
+    <path d="M 468.925384 170.659662 
+L 490.223601 170.659662 
+L 490.223601 162.38691 
+L 468.925384 162.38691 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_16">
-    <path d="M 521.699891 170.803613 
-L 542.99098 170.803613 
-L 542.99098 166.128559 
-L 521.699891 166.128559 
+    <path d="M 522.170928 170.659662 
+L 543.469146 170.659662 
+L 543.469146 165.988624 
+L 522.170928 165.988624 
 z
-" clip-path="url(#pd038f33926)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_17">
-    <path d="M 542.99098 170.803613 
-L 564.282069 170.803613 
-L 564.282069 170.803613 
-L 542.99098 170.803613 
+    <path d="M 543.469146 170.659662 
+L 564.767364 170.659662 
+L 564.767364 170.659662 
+L 543.469146 170.659662 
 z
-" clip-path="url(#pd038f33926)" style="fill: url(#h69f1401734); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" clip-path="url(#p1e2951c750)" style="fill: url(#h5b832aeef6); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
    </g>
    <g id="line2d_8">
-    <path d="M 50.634545 194.949896 
-L 311.450386 194.949896 
+    <path d="M 50.947859 194.785207 
+L 311.851027 194.785207 
 " style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
    </g>
    <g id="line2d_9">
-    <path d="M 359.355337 194.949896 
-L 566.943455 194.949896 
+    <path d="M 359.772017 194.785207 
+L 567.429641 194.785207 
 " style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
    </g>
    <g id="patch_18">
-    <path d="M 39.989 170.803613 
-L 39.989 28.766653 
+    <path d="M 40.29875 170.659662 
+L 40.29875 28.744694 
 " style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_19">
-    <path d="M 577.589 170.803613 
-L 577.589 28.766653 
+    <path d="M 578.07875 170.659662 
+L 578.07875 28.744694 
 " style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_20">
-    <path d="M 39.989 170.803613 
-L 577.589 170.803613 
+    <path d="M 40.29875 170.659662 
+L 578.07875 170.659662 
 " style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_21">
-    <path d="M 39.989 28.766653 
-L 577.589 28.766653 
+    <path d="M 40.29875 28.744694 
+L 578.07875 28.744694 
 " style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_18">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="63.941475" y="129.738522" transform="rotate(-0 63.941475 129.738522)">8.2</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="64.259245" y="129.418953" transform="rotate(-0 64.259245 129.418953)">8.2</text>
    </g>
    <g id="text_19">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="85.232564" y="40.789445" transform="rotate(-0 85.232564 40.789445)">27.5</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="85.557463" y="40.546272" transform="rotate(-0 85.557463 40.546272)">27.5</text>
    </g>
    <g id="text_20">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="117.169198" y="143.145596" transform="rotate(-0 117.169198 143.145596)">5.3</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="117.50479" y="142.814512" transform="rotate(-0 117.50479 142.814512)">5.3</text>
    </g>
    <g id="text_21">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="138.460287" y="129.79798" transform="rotate(-0 138.460287 129.79798)">8.2</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="138.803007" y="129.47836" transform="rotate(-0 138.803007 129.47836)">8.2</text>
    </g>
    <g id="text_22">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="170.396921" y="115.404088" transform="rotate(-0 170.396921 115.404088)">11.3</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="170.750334" y="115.096831" transform="rotate(-0 170.750334 115.096831)">11.3</text>
    </g>
    <g id="text_23">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="191.68801" y="119.046233" transform="rotate(-0 191.68801 119.046233)">10.5</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="192.048552" y="118.735848" transform="rotate(-0 192.048552 118.735848)">10.5</text>
    </g>
    <g id="text_24">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="223.624644" y="157.69251" transform="rotate(-0 223.624644 157.69251)">2.2</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="223.995879" y="157.348933" transform="rotate(-0 223.995879 157.348933)">2.2</text>
    </g>
    <g id="text_25">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="244.915733" y="58.504223" transform="rotate(-0 244.915733 58.504223)">23.7</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="245.294097" y="58.245836" transform="rotate(-0 245.294097 58.245836)">23.7</text>
    </g>
    <g id="text_26">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="276.852366" y="152.685599" transform="rotate(-0 276.852366 152.685599)">3.2</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="277.241423" y="152.346322" transform="rotate(-0 277.241423 152.346322)">3.2</text>
    </g>
    <g id="text_27">
-    <text style="fill: #808080; font: italic 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="298.143455" y="167.608159" transform="rotate(-0 298.143455 167.608159)">n.q.</text>
+    <text style="font-style: italic; font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #808080" x="298.539641" y="167.256065" transform="rotate(-0 298.539641 167.256065)">n.q.</text>
    </g>
    <g id="text_28">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="372.662267" y="153.200901" transform="rotate(-0 372.662267 153.200901)">3.1</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="373.083403" y="152.861181" transform="rotate(-0 373.083403 152.861181)">3.1</text>
    </g>
    <g id="text_29">
-    <text style="fill: #808080; font: italic 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="393.953356" y="167.608159" transform="rotate(-0 393.953356 167.608159)">n.i.</text>
+    <text style="font-style: italic; font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #808080" x="394.381621" y="167.256065" transform="rotate(-0 394.381621 167.256065)">n.i.</text>
    </g>
    <g id="text_30">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="425.88999" y="160.357517" transform="rotate(-0 425.88999 160.357517)">1.6</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="426.328948" y="160.01165" transform="rotate(-0 426.328948 160.01165)">1.6</text>
    </g>
    <g id="text_31">
-    <text style="fill: #808080; font: italic 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="447.181079" y="167.608159" transform="rotate(-0 447.181079 167.608159)">n.i.</text>
+    <text style="font-style: italic; font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #808080" x="447.627166" y="167.256065" transform="rotate(-0 447.627166 167.256065)">n.i.</text>
    </g>
    <g id="text_32">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="479.117713" y="159.328295" transform="rotate(-0 479.117713 159.328295)">1.8</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="479.574493" y="158.983313" transform="rotate(-0 479.574493 158.983313)">1.8</text>
    </g>
    <g id="text_33">
-    <text style="fill: #808080; font: italic 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="500.408802" y="167.608159" transform="rotate(-0 500.408802 167.608159)">n.i.</text>
+    <text style="font-style: italic; font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #808080" x="500.87271" y="167.256065" transform="rotate(-0 500.87271 167.256065)">n.i.</text>
    </g>
    <g id="text_34">
-    <text style="fill: #262626; font: 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="532.345436" y="162.933106" transform="rotate(-0 532.345436 162.933106)">1.0</text>
+    <text style="font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="532.820037" y="162.585027" transform="rotate(-0 532.820037 162.585027)">1.0</text>
    </g>
    <g id="text_35">
-    <text style="fill: #808080; font: italic 6.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="553.636525" y="167.608159" transform="rotate(-0 553.636525 167.608159)">n.q.</text>
+    <text style="font-style: italic; font-size: 6.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #808080" x="554.118255" y="167.256065" transform="rotate(-0 554.118255 167.256065)">n.q.</text>
    </g>
    <g id="text_36">
-    <text style="fill: #262626; font: italic 8.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="181.042465" y="205.669677" transform="rotate(-0 181.042465 205.669677)">M. formicicum</text>
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="181.399443" y="205.501327" transform="rotate(-0 181.399443 205.501327)">M. formicicum</text>
    </g>
    <g id="text_37">
-    <text style="fill: #262626; font: 8.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="181.042465" y="221.293742" transform="rotate(-0 181.042465 221.293742)">methane metabolism</text>
+    <text style="font-size: 8.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="181.399443" y="221.111974" transform="rotate(-0 181.399443 221.111974)">methane metabolism</text>
    </g>
    <g id="text_38">
-    <text style="fill: #262626; font: italic 8.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="463.149396" y="205.669677" transform="rotate(-0 463.149396 205.669677)">S. zehnderi</text>
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="463.600829" y="205.501327" transform="rotate(-0 463.600829 205.501327)">S. zehnderi</text>
    </g>
    <g id="text_39">
-    <text style="fill: #262626; font: 8.5px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle" x="463.149396" y="221.338899" transform="rotate(-0 463.149396 221.338899)">β-oxidation and energy</text>
+    <text style="font-size: 8.5px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: middle; fill: #262626" x="463.600829" y="221.15713" transform="rotate(-0 463.600829 221.15713)">β-oxidation and energy</text>
    </g>
    <g id="legend_1">
     <g id="patch_22">
-     <path d="M 230.83525 16.47875 
-L 238.83525 16.47875 
-L 238.83525 10.87875 
-L 230.83525 10.87875 
+     <path d="M 231.235 16.47875 
+L 239.235 16.47875 
+L 239.235 10.87875 
+L 231.235 10.87875 
 z
 " style="fill: #4c78a8; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
     </g>
     <g id="text_40">
-     <text style="fill: #262626; font: 8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: start" x="245.23525" y="16.47875" transform="rotate(-0 245.23525 16.47875)">Oleate</text>
+     <text style="font-size: 8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: start; fill: #262626" x="245.635" y="16.47875" transform="rotate(-0 245.635 16.47875)">Oleate</text>
     </g>
     <g id="patch_23">
-     <path d="M 279.80775 16.47875 
-L 287.80775 16.47875 
-L 287.80775 10.87875 
-L 279.80775 10.87875 
+     <path d="M 280.2075 16.47875 
+L 288.2075 16.47875 
+L 288.2075 10.87875 
+L 280.2075 10.87875 
 z
 " style="fill: #e45756; stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
     </g>
     <g id="text_41">
-     <text style="fill: #262626; font: 8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: start" x="294.20775" y="16.47875" transform="rotate(-0 294.20775 16.47875)">Stearate</text>
+     <text style="font-size: 8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: start; fill: #262626" x="294.6075" y="16.47875" transform="rotate(-0 294.6075 16.47875)">Stearate</text>
     </g>
     <g id="patch_24">
-     <path d="M 336.9515 16.47875 
-L 344.9515 16.47875 
-L 344.9515 10.87875 
-L 336.9515 10.87875 
+     <path d="M 337.35125 16.47875 
+L 345.35125 16.47875 
+L 345.35125 10.87875 
+L 337.35125 10.87875 
 z
-" style="fill: url(#h254faea400); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
+" style="fill: url(#hb925d53741); stroke: #000000; stroke-width: 0.4; stroke-linejoin: miter"/>
     </g>
     <g id="text_42">
-     <text style="fill: #262626; font: 8px 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: start" x="351.3515" y="16.47875" transform="rotate(-0 351.3515 16.47875)">Doubtful</text>
+     <text style="font-size: 8px; font-family: 'Linux Libertine', 'Libertinus Serif', 'DejaVu Serif'; text-anchor: start; fill: #262626" x="351.75125" y="16.47875" transform="rotate(-0 351.75125 16.47875)">Doubtful</text>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pd038f33926">
-   <rect x="39.989" y="28.766653" width="537.6" height="142.03696"/>
+  <clipPath id="p1e2951c750">
+   <rect x="40.29875" y="28.744694" width="537.78" height="141.914968"/>
   </clipPath>
  </defs>
  <defs>
-  <pattern id="h69f1401734" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+  <pattern id="h5b832aeef6" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
    <rect x="0" y="0" width="73" height="73" fill="#e45756"/>
    <path d="M -36 36 
 L 36 -36 
@@ -472,7 +472,7 @@ M 36 108
 L 108 36 
 " style="fill: #000000; stroke: #000000; stroke-width: 0.5; stroke-linecap: butt; stroke-linejoin: miter"/>
   </pattern>
-  <pattern id="h88fd84b3b5" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+  <pattern id="hbe886c99c1" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
    <rect x="0" y="0" width="73" height="73" fill="#4c78a8"/>
    <path d="M -36 36 
 L 36 -36 
@@ -526,7 +526,7 @@ M 36 108
 L 108 36 
 " style="fill: #000000; stroke: #000000; stroke-width: 0.5; stroke-linecap: butt; stroke-linejoin: miter"/>
   </pattern>
-  <pattern id="h254faea400" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+  <pattern id="hb925d53741" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
    <rect x="0" y="0" width="73" height="73" fill="#ffffff"/>
    <path d="M -36 36 
 L 36 -36 
